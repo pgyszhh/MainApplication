@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\residemenu_custom_left_scrollview.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\residemenu_custom_left_scrollview.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\residemenu_custom.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\residemenu_custom.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\residemenu_item.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\residemenu_custom_right_scrollview.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\residemenu_custom_right_scrollview.xml"
+    }
+]

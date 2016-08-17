@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\Developer\Exercise\MainApplication\ResideMenu\libs"><file name="nineoldandroids-library-2.4.0.jar" path="F:\Developer\Exercise\MainApplication\ResideMenu\libs\nineoldandroids-library-2.4.0.jar"/></source></dataSet><dataSet config="release"><source path="F:\Developer\Exercise\MainApplication\ResideMenu\src\release\jniLibs"/></dataSet></merger>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_custom_left_scrollview.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\exploded-aar\\MainApplication\\ResideMenu\\unspecified\\res\\layout\\residemenu_custom_left_scrollview.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\exploded-aar\\MainApplication\\ResideMenu\\unspecified\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_custom_right_scrollview.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\exploded-aar\\MainApplication\\ResideMenu\\unspecified\\res\\layout\\residemenu_custom_right_scrollview.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_custom.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\exploded-aar\\MainApplication\\ResideMenu\\unspecified\\res\\layout\\residemenu_custom.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\res\\layout\\main.xml"
+    }
+]

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MainApplication</string>
+    <string-array name="menuID">
+        <item>menu_one</item>
+        <item>menu_two</item>
+    </string-array>
+</resources>

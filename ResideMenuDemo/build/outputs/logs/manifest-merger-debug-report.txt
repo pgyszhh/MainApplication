@@ -1,0 +1,46 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:3:11-47
+	android:versionName
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:5:11-36
+		INJECTED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml
+		INJECTED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:4:11-34
+		INJECTED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml
+		INJECTED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:6:5-7:46
+MERGED from [MainApplication:ResideMenu:unspecified] F:\Developer\Exercise\MainApplication\ResideMenuDemo\build\intermediates\exploded-aar\MainApplication\ResideMenu\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:7:15-44
+	android:minSdkVersion
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:6:15-40
+application
+ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:8:5-17:19
+	android:label
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:8:18-50
+	android:icon
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:8:51-87
+activity#com.special.ResideMenuDemo.MenuActivity
+ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:9:9-16:20
+	android:label
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:11:19-51
+	android:theme
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:10:19-72
+	android:name
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:9:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from F:\Developer\Exercise\MainApplication\ResideMenuDemo\AndroidManifest.xml:14:27-74

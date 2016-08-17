@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="44dp"
+                android:background="@color/newcolor_shenlv"
+                android:paddingLeft="@dimen/px16"
+                android:paddingRight="@dimen/px16" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/title_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY"
+            android:src="@drawable/h_power_info1_white"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="@string/app_name"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/px40" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/b_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@color/transparent"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/topbar_arrow_left" />
+
+    <ImageButton
+        android:id="@+id/b_more_action"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/px20"
+        android:background="@color/transparent"
+        android:contentDescription="@string/app_name"
+        android:paddingBottom="@dimen/px10"
+        android:paddingTop="@dimen/px10"
+        android:src="@drawable/t_set"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/b_right"
+        android:layout_width="@dimen/px70"
+        android:layout_height="@dimen/px70"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/px6"
+        android:background="@color/transparent"
+        android:contentDescription="@string/app_name"
+        android:paddingBottom="@dimen/px10"
+        android:paddingTop="@dimen/px10"
+        android:src="@drawable/change_user"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/back_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/b_back"
+        android:textColor="#FFFFFF"
+        android:textSize="10dp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/b_bigcustome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@android:color/holo_green_dark"
+        android:text="企业用户"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/t_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="企业用户"
+        android:textColor="#FFFFFF"
+        android:textSize="38px"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/title_left_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20px"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/title_left_logo"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/rl_head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingTop="10px"
+        android:paddingBottom="10px"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/h_power_title1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/h_power_info1_white"
+                android:gravity="center"
+                android:text="日负荷"
+                android:textColor="#049888"
+                android:textSize="32px" />
+
+            <TextView
+                android:id="@+id/h_power_title3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/h_power_info3_green"
+                android:gravity="center"
+                android:text="负荷趋势"
+                android:textColor="#cceae7"
+                android:textSize="32px" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

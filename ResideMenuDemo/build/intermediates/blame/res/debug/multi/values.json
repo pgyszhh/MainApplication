@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "F:\\Developer\\Exercise\\MainApplication\\ResideMenuDemo\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 202
+                    }
+                }
+            }
+        ]
+    }
+]

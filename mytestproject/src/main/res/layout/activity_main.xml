@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4682B4"
+    tools:context="com.example.szhh.mainapplication.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/mfg"
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bt_menu"
+        >
+
+    </FrameLayout>
+    //android:name="com.example.szhh.mainapplication.view.FragmentOne"
+    <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:padding="0dp"
+        android:id="@+id/bt_menu"
+        android:layout_width="match_parent"
+        android:background="@color/colorAccent"
+        android:layout_height="60dp">
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:textSize="15sp"
+            android:layout_weight="1"
+            android:text="闲聊"
+            android:id="@+id/menu1"
+            />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:textSize="15sp"
+            android:layout_weight="1"
+            android:text="闲聊1"
+            android:id="@+id/menu2"
+            />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:textSize="15sp"
+            android:layout_weight="1"
+            android:text="闲聊2"
+            android:id="@+id/menu3"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

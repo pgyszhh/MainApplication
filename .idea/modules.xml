@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MainApplication.iml" filepath="$PROJECT_DIR$/MainApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResideMenu/ResideMenu.iml" filepath="$PROJECT_DIR$/ResideMenu/ResideMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResideMenuDemo/ResideMenuDemo.iml" filepath="$PROJECT_DIR$/ResideMenuDemo/ResideMenuDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_hong/app_hong.iml" filepath="$PROJECT_DIR$/app_hong/app_hong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autolayout/autolayout.iml" filepath="$PROJECT_DIR$/autolayout/autolayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autolayout-widget/autolayout-widget.iml" filepath="$PROJECT_DIR$/autolayout-widget/autolayout-widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myokhttp/myokhttp.iml" filepath="$PROJECT_DIR$/myokhttp/myokhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytestdemo02/mytestdemo02.iml" filepath="$PROJECT_DIR$/mytestdemo02/mytestdemo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytestproject/mytestproject.iml" filepath="$PROJECT_DIR$/mytestproject/mytestproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycler-plugin/recycler-plugin.iml" filepath="$PROJECT_DIR$/recycler-plugin/recycler-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/widgetsample/widgetsample.iml" filepath="$PROJECT_DIR$/widgetsample/widgetsample.iml" />
+    </modules>
+  </component>
+</project>

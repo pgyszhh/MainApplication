@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mytestdemo02.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginTop="16px"
+        android:layout_height="60px"
+        android:textSize="80px"
+        android:background="@color/colorAccent"
+        android:text="Hello World!"/>
+    <Button
+        android:layout_marginTop="200px"
+        android:layout_width="match_parent"
+        android:text="start"
+        android:id="@+id/bt"
+        android:layout_height="100px"/>
+</RelativeLayout>
